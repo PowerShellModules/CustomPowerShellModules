@@ -8,12 +8,55 @@ Please feel free to add to this over time
 Examples of technologies that have already existing modules that have been created for public consumption
 
 Twitter
+
 Facebook
+
 Trello
-GithubConnect
+
+Github, Gitlab, Bitbucket
+
 SharePoint Online/On-Premises - OfficeDevPnP
+
 Eventbrite
+
 Slack
+
 LinkedIn
+
 Microsoft Health
+
 Azure
+
+WordPress
+
+SQL
+
+Exchange
+
+ADSI
+
+CI Tech - Appvayor, Travis etc
+
+Visual Studio Team Services
+
+Office Graph
+
+Excel
+
+Word
+
+Outlook
+
+PowerPoint
+
+Publisher
+
+Visio
+
+Youtube
+
+Meetup
+
+
+
+
