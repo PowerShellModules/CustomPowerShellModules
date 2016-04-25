@@ -3,67 +3,37 @@ This is a Repo that will link to sub-repos by others for working on a bringing a
 
 Basically - I see that there are lots of modules being worked on by a number of different people and I wanted to get this organised into a singular area where we can collectively collaborate on making the Modules as brilliant as possible.
 
-Please feel free to add to this over time
+Please feel free to add to this over time.
 
-Examples of technologies that have already existing modules that have been created for public consumption
+Technologies that have already existing modules that have been created for public consumption.
 
-Twitter
-
-Facebook
-
-Trello
-
-Github, Gitlab, Bitbucket
-
-SharePoint Online/On-Premises - OfficeDevPnP
-
-Eventbrite
-
-Slack
-
-LinkedIn
-
-Microsoft Health
-
-Azure
-
-WordPress
-
-SQL
-
-Exchange
-
-ADSI
-
-CI Tech - Appvayor, Travis etc
-
-Visual Studio Team Services
-
-Office Graph
-
-Excel
-
-Word
-
-Outlook
-
-PowerPoint
-
-Publisher
-
-Visio
-
-Youtube
-
-Meetup
-
-HyperV Lab Building
-
-Skype For Business
-
-
-
-
-
-
-
+* ADSI  
+* Azure  
+* CI Tech - Appvayor, Travis etc  
+* Eventbrite  
+* Excel  
+* Exchange  
+* Facebook  
+* Github, Gitlab, Bitbucket  
+* HyperV Lab Building  
+* [LeanKit](https://github.com/Sam-Martin/leankit-powershell)  
+* LinkedIn  
+* Meetup  
+* Microsoft Health  
+* Office Graph  
+* Outlook  
+* PowerPoint  
+* [PRTG](https://github.com/Sam-Martin/prtg-powershell)  
+* Publisher  
+* [ServiceNow](https://github.com/Sam-Martin/servicenow-powershell)  
+* SharePoint Online/On-Premises - OfficeDevPnP  
+* Skype For Business  
+* Slack  
+* SQL  
+* Trello  
+* Twitter  
+* Visio  
+* Visual Studio Team Services  
+* Word  
+* WordPress  
+* Youtube  
